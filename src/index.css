@@ -1,0 +1,19 @@
+@import  'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css';
+
+.btn-toolbar{
+  text-align: center !important;
+  display: Block !important;
+}
+
+.sml-buffer { margin-top:20px; }
+
+.mdm-buffer { margin-top:40px; }
+
+.lrg-buffer { margin-top:65px; }
+
+.photo-modal {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
