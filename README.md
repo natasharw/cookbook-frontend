@@ -6,12 +6,10 @@ A frontend for a cookbook bootstrapped with create-react-app.
 Designed to work with https://github.com/natasharw/cookbook-backend.
 
 <br />
-<br />
-<br />
-<br />
 
+<kbd><img src="homepage.png" /></kbd>
 
->![default homepage](homepage.png)
+<br />
 
 To run:
 
