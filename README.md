@@ -5,6 +5,8 @@ A frontend for a cookbook bootstrapped with create-react-app.
 
 Designed to work with https://github.com/natasharw/cookbook-backend
 
+![default homepage]((homepage.png)
+
 To run:
 
 * Run `npm start`
@@ -14,3 +16,7 @@ To run:
 To test: `npm test`
 
 To build app for production: `npm run build`
+
+#### Requirements
+* Node.js
+* create-react-app
