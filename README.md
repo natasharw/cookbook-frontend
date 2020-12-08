@@ -5,7 +5,7 @@ A frontend for a cookbook bootstrapped with create-react-app.
 
 Designed to work with https://github.com/natasharw/cookbook-backend
 
-![default homepage]((homepage.png)
+![default homepage](homepage.png)
 
 To run:
 
